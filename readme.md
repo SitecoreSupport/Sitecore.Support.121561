@@ -1,5 +1,5 @@
 # Sitecore.Support.121561
-Add debugging information to separate contacts in MongoDb created by List Manager
+Implement Debug mode to MongoDbProcessingPool that writes StackTrace to ProcessingPool
 
 ## Description
 TODO: provide more details here.
